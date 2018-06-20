@@ -22,10 +22,11 @@
   },
   "homepage": "https://github.com/ktlewis17/React-Memory#readme",
   "dependencies": {
-    "yarn": "^1.7.0",
     "gh-pages": "^1.1.0",
+    "node": "^10.4.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "1.1.1",
+    "yarn": "^1.7.0"
   }
 }
