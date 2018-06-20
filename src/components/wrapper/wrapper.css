@@ -1,0 +1,16 @@
+.wrapper {
+    margin-top:10px;
+    margin-bottom: 100px; 
+    background: palegreen;
+    height: 200%;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    flex-wrap: wrap;
+    padding: 2px;
+    justify-content: center;
+    align-content: center;
+    align-direction: row;
+    border-radius: 6px; 
+    
+  }

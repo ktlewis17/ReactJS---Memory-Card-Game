@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "image": "./img/d7efa960ba52af09b3d45525e8ca27f3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./img/dr.faclier.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./img/facilierfriends.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./img/Gumbo-good-food.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./img/images-2.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./img/images-3.jpeg",
+    "clicked": false    
+  },
+  {
+    "id": 7,
+    "image": "./img/princess-and-the-frog-disneyscreencaps-3724.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./img/Princess-and-the-frog-disneyscreencaps.com-5730.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./img/Princess-and-the-frog-disneyscreencaps.com-9303.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./img/The_Princess_and_the_Frog_wallpaper.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./img/the-princess-and-the-frog1.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./img/tianabook_E_20091205161209.jpg",
+    "clicked": false
+  }
+]

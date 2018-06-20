@@ -1,0 +1,13 @@
+.jumbotron {
+    text-align: center;
+    margin-bottom: 3px;
+    background: paleturquoise;
+    font-family: 'Tangerine', serif;
+        font-size: 48px;
+  }
+  
+  .navbar {
+      border-radius: 6px; 
+      margin-bottom: 20px;
+      background: palegreen;
+  }
